@@ -1,0 +1,8 @@
+src/vendor
+.terraform
+.terraform.tfstate*
+terraform.tfstate*
+*.plan
+function.zip
+builds/**
+bin/**
